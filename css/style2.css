@@ -265,7 +265,7 @@ body .ui-tooltip {
     height: 510px;
 }
 #section-profileImage-Movie  {
-    height: 67vh;
+    height: 57vh;
     overflow: hidden;
     position: relative;
     background-color:#323232
@@ -308,6 +308,7 @@ body .ui-tooltip {
     color: #fff;
     background: #323232;
     padding: 50px 0;
+    height:23vh;
 }
 #section-honors {
     color: #fff;
