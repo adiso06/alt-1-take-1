@@ -309,7 +309,7 @@ body .ui-tooltip {
     background: #323232;
     padding: 50px 0;
     height:23vh;
-    min-height:50px ;
+    min-height:auto ;
 }
 #section-honors {
     color: #fff;
